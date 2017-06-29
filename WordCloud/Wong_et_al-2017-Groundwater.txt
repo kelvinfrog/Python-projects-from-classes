@@ -1,0 +1,422 @@
+Abstract
+Bacteriophages have been used in soil column studies for the last several decades as surrogates to study
+the fate and transport behavior of enteric viruses in groundwater. However, recent studies have shown that the
+transport behavior of bacteriophages and enteric viruses in porous media can be very different. The next generation
+of virus transport science must therefore provide more data on mobility of enteric viruses and the relationship
+between transport behaviors of enteric viruses and bacteriophages. To achieve this new paradigm, labor intensity
+devoted to enteric virus quantification method must be reduced. Recent studies applied quantitative polymerase
+chain reaction (qPCR) to column filtration experiments to study the transport behavior of human adenovirus
+(HAdV) in porous media under a variety of conditions. A similar approach can be used to study the transport
+of other enteric viruses such as norovirus. Analyzing the column samples with both qPCR and culture assays
+and applying multiplex qPCR to study cotransport behavior of more than one virus will provide information to
+under-explored areas in virus transport science. Both nucleic acid extraction kits and one-step lysis protocols have
+been used in these column studies to extract viral nucleic acid for qPCR quantification. The pros and cons of both
+methods are compared herein and solutions for overcoming problems are suggested. As better understanding of
+the transport behavior of enteric viruses is clearly needed, we strongly advocate for application of rapid molecular
+tools in future studies as well as optimization of protocols to overcome their current limitations.
+
+Introduction
+Enteric viruses such as adenovirus, enterovirus, and
+norovirus have been found in various water environments
+and land-applied biosolids (Katayama et al. 2002, 2008;
+Fong et al. 2007; Xagoraraki et al. 2007; Wong et al.
+2010). Exposure to them causes a variety of diseases in
+humans and as a consequence, they have been included
+on the U.S Environmental Protection Agency Drinking
+1 Ecosystem Research Division, USEPA Office of Research and
+Development, National Exposure Research Laboratory, 960 College
+Station Road, Athens, GA 30605.
+2
+Oak Ridge Institute for Science and Education, 1299 Bethel
+Valley Road, Oak Ridge, TN 37831.
+3
+Corresponding author: Ecosystem Research Division, USEPA
+Office of Research and Development, National Exposure Research
+Laboratory, 960 College Station Road, Athens, GA 30605; 1-706355-8113; fax: 1-706-355-8104; wongchi@uga.edu
+Received September 2016, accepted April 2017.
+© 2017, National Ground Water Association.
+doi: 10.1111/gwat.12531
+
+NGWA.org
+
+Water Contamination Candidate List. Since they are
+much more mobile than bacteria in porous media due
+to their small size (usually below 100 nm) (Maier et al.
+2009), infiltration of biosolid-associated enteric viruses
+into groundwater is thus a major concern. To protect the
+water environment, tremendous effort has been invested
+over the last several decades to gain a solid understanding
+of the fate and transport behavior of viruses in the
+subsurface (Schijven and Hassanizadeh 2000; Jin and
+Flury 2002; Zhuang and Jin 2003; Attinti et al. 2010;
+Horswell et al. 2010; Syngouna and Chrysikopoulos 2013;
+Kokkinos et al. 2015).
+The transport of viruses in subsurface environments
+depend on the processes of advection, dispersion, diffusion, size exclusion, retention, and release from the
+soil-water and air-water interfaces (Bradford et al. 2014).
+Mathematical models have been developed to understand
+and predict the complex virus transport process in subsurface. Soil columns have been used in numerous studies to
+generate breakthrough curve (BTC) data for grasping the
+Groundwater
+
+1
+
+effect of these processes on virus transport and developing
+models that predict virus mobility in the subsurface (Schijven and Hassanizadeh 2000; Jin and Flury 2002; Attinti
+et al. 2010; Bradford et al. 2014). A reliable BTC requires
+frequent measurements of effluent samples and replication
+of column experiments. Because it is much more time- and
+resource-consuming to perform culture analysis for enteric
+viruses than bacteriophages assays, most virus transport
+studies have only focused on bacteriophages, under the
+assumption that phages are accurate surrogates for enteric
+viruses (Pang et al. 2014; Wong et al. 2014; Stevenson
+et al. 2015).
+Advanced molecular techniques such as polymerase
+chain reaction (PCR) are much less time-consuming than
+culture methods and numerous monitoring studies have
+already applied molecular tools to detect enteric viruses
+in different water systems (Wong et al. 2012a). Indeed,
+the recent increase in literature reporting the occurrence
+of enteric viruses is mostly attributed to the availability
+of PCR viral assays. It is time for virus transport studies
+to incorporate advanced molecular methods, particularly
+quantitative PCR (qPCR), to monitor the concentration
+of viral contaminants of high public health concern in
+complex environmental matrices. In this issue paper, the
+main goal therefore is to discuss the needs for a substantial
+increase in transport data of enteric viruses, and discuss
+the opportunities and challenges of applying qPCR to
+column transport experiments.
+
+2013), having caused numerous waterborne and foodborne
+outbreaks (Vega et al. 2014). There is thus a strong need
+to study mobility and attachment behavior of norovirus
+in the subsurface environment. qPCR will be the best
+tool for quantifying HNoV in column studies because
+there is no practical culture system for HNoV (Koo et al.
+2012). Since animal noroviruses such as feline and murine
+norovirus can be cultured to a high titer, they can be used
+as a surrogate for HNoV in column study and their qPCR
+primers have already been developed (Baert et al. 2008;
+Di Pasquale et al. 2010) and applied in other studies to
+investigate the persistence of norovirus in water and under
+thermal treatment (Seitz et al. 2011; Zonta et al. 2015).
+Because numerous areas in environmental virology
+have benefited from application of qPCR, including recent
+HAdV transport studies, new and exciting information
+will be added to virus transport science if more studies
+apply molecular techniques to investigate enteric virus
+motilities in column systems and compare transport
+behavior of bacteriophages and enteric viruses, side-byside. This will be critical to identify bacteriophages that
+can be accurate surrogates for the presence, fate, and
+transport of enteric viruses in surface and ground waters.
+Until then, it is only a guessing game – with relative
+approximations of mobility at best – which can lead
+to significant under- and/or over-estimation of human
+exposure to pathogenic viruses.
+
+Needs for Understanding the Transport Behavior
+of Enteric Viruses
+Three recent studies by independent research groups
+(Shi et al. 2012; Pang et al. 2014; Wong et al. 2014),
+applied qPCR to column filtration experiments and they
+all found mobility of human adenovirus (HAdV, the
+most prevalent enteric virus in water environments)
+(Wong et al. 2012a) to be much lower than MS2 (the
+most frequently used bacteriophage in virus transport
+studies) (Jin and Flury 2002; Wong et al. 2014) in sand
+media. Another study also found mass recovery of HAdV
+from glass beads column effluents lower than coliphage
+reported in previous studies (Kokkinos et al. 2015). One
+study, however, reported higher retention of MS2 than
+HAdV in fine granular limestone aquifer material; and
+suggested that PRD1 was a better transport indicator than
+MS2 for HAdV in this type of media (Stevenson et al.
+2015). Besides HAdV, rotavirus was also found to be
+much less mobile than MS2 (Pang et al. 2014). This
+information is extremely valuable because it indicates that
+assuming MS2 is an accurate transport surrogate for all
+enteric viruses in soil systems can lead to significant error.
+Moreover, risk associated with HAdV and rotavirus can be
+under- or over-estimated (depending on the media types)
+if MS2 transport data are used to determine HAdV levels
+in groundwater systems.
+Besides HAdV and rotavirus, no studies have applied
+qPCR to report BTC data of other enteric viruses. Human
+norovirus (HNoV) is recognized as the leading cause
+of acute gastroenteritis for all age groups (Hall et al.
+
+Analyzing Column Samples Using Both qPCR and Culture
+Assays
+Even though culture assays are tedious, future column
+studies should consider analyzing the results using both
+qPCR and culture methods since attachment to soil
+and soil organic matter can cause virus inactivation
+(Schijven and Hassanizadeh 2000; Silva et al. 2015).
+Culture method is only able to detect viable viruses but
+qPCR is able to detect naked nucleic acid (NA), capsiddamaged viruses, viable but non-culturable viruses, and
+culturable viruses. Therefore, if filtration processes can
+cause viruses to become inactivated or damaged, the
+difference between virus count by qPCR and culture
+assay can be attributed to inactivation. Both qPCR and
+culture methods have been used to analyze samples from
+HAdV sorption isotherm experiments (Silva et al. 2015).
+In this study, the authors reported that although organic
+matter did not lower gene copy numbers in the liquid
+phase, it reduced the infectivity of HAdV, indicating that
+organic matter did not enhance attachment of HAdV, but
+inactivated them instead. This information is extremely
+useful since a comprehensive fate and transport model
+includes both attachment/detachment and inactivation
+factors (Bradford et al. 2014). Because culturing enteric
+viruses is labor intensive, comparison of bacteriophage
+BTCs obtained from qPCR and culture assays can offer a
+fast and cost effective approach, especially because until
+now, no phage column study has reported BTC results
+using both culture and qPCR techniques. Having phage
+BTC results obtained by both techniques will improve
+
+2
+
+K. Wong and M. Molina Groundwater
+
+NGWA.org
+
+our understanding on the factors causing the removal of
+virus during groundwater filtration.
+Application of Multiplex qPCR for Cotransport Study
+Previous transport studies have investigated virus
+transport influenced by environmental factors such as
+ionic strength, ion composition, pH, organic matter, and
+soil types which are very relevant since they strongly
+influence virus deposition to soil particles (Jin and
+Flury 2002; Zhuang and Jin 2003; Yuan et al. 2008;
+Wong et al. 2012b, 2014). However, many different
+types of viruses including bacteriophage and human,
+plant, and animal pathogenic viruses are present in the
+natural water and wastewater environments (Rosario et al.
+2009) and their coexistence can lead to competition
+for the binding sites in porous media, consequently
+influencing transport of individual viruses. Virus transport
+behavior determined by previous column filtration studies
+have mostly focused on a single virus; however, a
+variety of studies have shown that transport of virus or
+bacteria can be influenced by the copresence of clay
+colloids (Vasiliadou and Chrysikopoulos 2011; Syngouna
+and Chrysikopoulos 2013). This finding implies that
+copresence of biocolloids, such as other viruses, can also
+influence individual virus transport behavior. Therefore,
+there is a need to investigate the effect of copresence of
+multiple microbes on the transport behavior of individual
+viruses. We recommend that future studies focusing on
+virus transport consider including copresence of bacteria
+and viruses as well as high and low binding viruses.
+Multiplex qPCR detects and quantifies multiple organisms
+in one qPCR run, using multiple primers and probes
+specific to the targeted microbes. It has been applied in
+previous studies to detect and quantify multiple enteric
+viruses in the water environment (Wolf et al. 2010; Wong
+and Xagoraraki 2010). Because analytical measurement
+of multiple microbes is required in cotransport studies,
+multiplex qPCR will definitely be more efficient and cost
+effective than culture or single qPCR assays. The outcome
+of these studies will enhance our understanding of the
+interactions between mixed microbial/viral communities
+and virus transport in groundwater.
+Challenges and Solutions Associated with Applying qPCR
+for Virus Soil Column Studies
+While we strongly support this new paradigm of virus
+transport, there are still technical challenges associated
+with applying qPCR to study virus filtration in soil column
+systems. In our opinion, the major challenge applying
+qPCR to virus column studies is preparing high-quality
+NA templates.
+Typical NA extraction kits such as mini column
+filtration can prepare high-quality NA by lysing almost
+any virus capsid and removing PCR inhibitors such as
+soil humic acid (Wilson 1997). Because multiple steps
+(e.g., lysing, cleaning, filtration, and elution) are required
+with kits, the primary deterrent to this technique is its
+inconsistent recovery rate due to accumulation of error
+from each step (Table 1). Inconsistent NA recovery
+NGWA.org
+
+reduces the accuracy of calculating the virus retained
+in soil columns and smoothness of the BTC, which are
+key results in determining virus attachment/detachment
+behavior and model development. It can also be very
+time-consuming and costly to extract NA using kits,
+especially with the large number of effluent samples
+usually generated from column experiments. However,
+when dealing with very inhibited samples, extraction kits
+are the most effective method for removing inhibitors.
+To overcome inconsistent recovery rates, replicate or
+triplicate extractions are highly recommended. Replicate
+samples are especially important for the influent sample
+since the mass recovery for the column experiment is
+determined by measuring the area under the plot of C e /C o
+vs. pore volume (or BTC) (Pang et al. 2014; Wong et al.
+2014), where C o is the influent concentration and C e
+is the concentrations of effluent samples collected at
+different pore volumes. Extra attention should therefore be
+given to the accuracy of C o since it involves calculating
+all values in the breakthrough plot. To lessen the labor
+effort, high throughput 96-well extraction kits (e.g.,
+PureLink® Pro 96 Viral RNA/DNA Purification Kit,
+ThermoFisher Scientific, Waltham, Massachusetts) can be
+considered for extracting virus NAs from large numbers
+of effluent samples; and a multichannel pipette is also
+highly recommended to take full advantage of the highthroughput feature of 96-well extraction kits.
+An alternative way to release NA from virus capsids
+for direct qPCR analysis without using extraction kits is
+offered by following the QuickExtract DNA (Epicentre,
+Madison, Wisconsin) protocol. This quick protocol in
+combination with 95 ◦ C heating resulted in effective
+adenovirus and MS2 capsid lysis, respectively, producing
+high-quality NAs suitable for immediate qPCR analysis
+(Wong et al. 2014). We believe the one-step lysis method
+provides more consistent NA extraction recovery than the
+kit-based method since only a lysing step is involved
+(Table 1). This method has only been tested with HAdV
+and MS2 (Wong et al. 2012b, 2014), therefore, future
+studies should focus on testing and developing protocols
+that can effectively lyse other enteric viruses for direct
+qPCR analysis. Because clean-up is not involved, the
+PCR inhibition caused by environmental inhibitors such as
+humic acid is a major hurdle to overcome when using this
+method. One way to overcome PCR inhibition drawbacks
+is through dilution with molecular grade water (Pang et al.
+2014; Wong et al. 2014). The recently developed qPCR
+platform, digital PCR (dPCR), can also be considered
+because it is less susceptible to inhibition (Hindson et al.
+2013; Rački et al. 2014; Pavšič et al. 2016). Moreover,
+no calibration curve is needed for quantification by dPCR
+since it is based on a Bayesian Probabilistic framework
+(Hindson et al. 2013). This can be extremely useful
+in analyzing effluent samples with multiple aqueous
+chemistry matrices since our previous study showed water
+chemistry (e.g., ionic composition) can slightly shift qPCR
+threshold values (Wong et al. 2012b, 2014), meaning that
+separate standard curves are needed to quantify the virus
+in each water matrix.
+K. Wong and M. Molina Groundwater
+
+3
+
+Table 1
+Comparison Between Using Extraction Kits and One-Step Lysis Protocol to Prepare Virus Nucleic Acid
+from Soil Column Samples for qPCR Analysis
+
+Extraction kit
+
+One-step lysis
+
+Disadvantages/Problems
+
+Eliminates most inhibition
+
+Inconsistent recovery can affect
+accuracy of mass recovery and
+smoothness of breakthrough
+curve
+Long labor time and high cost
+
+96-wells extraction plate
+
+Cannot handle highly inhibited
+samples
+
+Dilution, digital PCR, switch to
+extraction kits
+
+Conditions vary for different
+enteric viruses
+Different standard curves are
+needed for samples having
+different aqueous chemistry
+matrices
+
+Specific optimization for each
+virus, switch to extraction kits
+Dilution, digital PCR, switch to
+extraction kits
+
+Extracts NA from most
+viruses
+Minimal concern over
+inconsistency in extraction
+recovery rates between
+samples
+
+Overall, we recommend using one-step lysis protocol
+only when inhibition from environmental contaminants is
+not too strong to interfere with the qPCR quantification.
+Since application of molecular techniques to column
+studies is still in the early stages, it is worthwhile
+for future studies to compare the BTCs and mass
+recovery from extraction kits and one-step lysis protocol,
+and determine the effectiveness of each under different
+conditions.
+In addition to issues associated with NA extraction,
+PCR is able to detect the capsid-free NA (cfNA) so
+it is important to run the column experiment using a
+stock composed of mostly intact virus since transport
+of viruses and their NAs can be very different. This is
+especially important when studying DNA viruses since
+capsid-free RNA usually degrades very quickly in the
+environment. We recommend using well-preserved or
+freshly grown stocks to conduct experiments so numbers
+of cfNA will be minimal. Another way to reduce cfNA
+in the stock is to add DNase or RNase, but they must be
+removed prior to column experiment and qPCR analysis
+(Kokkinos et al. 2015). The difference between the qPCR
+threshold values of virus stock before and after lysing
+can determine intactness of viruses. The threshold value
+before lysing should be higher than afterward and the
+bigger the difference, the higher the portion of intact
+virus in the stock. Also, DNA-labeled protein-coated silica
+nanoparticles were recently used to mimic actual virus
+transport through a column system; no capsid lysis was
+needed because DNA is covalently attached to the silica
+nanoparticles (Pang et al. 2014). Enteric viruses may
+not be allowed for field scale column studies such as
+lysimeters due to biosafety concerns. Protein-coated silica
+nanoparticles can therefore serve as a surrogate in field
+studies since they are not considered pathogenic to human
+4
+
+Recommendations to Lessen
+the Problems
+
+Advantages
+
+K. Wong and M. Molina Groundwater
+
+Replicate extractions, particularly
+on influent samples
+
+health (Pang et al. 2014). Since only one study has applied
+this technology in virus transport, more studies are needed
+to explore and validate this engineered nanomaterial’s
+ability to mimic virus transport.
+
+Conclusion
+Based on the extensive development of molecular
+detection technology in the last couple decades, virus
+transport science should be able to provide more detailed
+data on mobility of enteric viruses in subsurface porous
+media. Considering how studies on waterborne pathogen
+detection have increased since development of PCRrelated technology (Girones et al. 2010; Aw and Rose
+2012), studies on mobility of enteric viruses in porous
+media are surprisingly scarce. We believe there is a
+great opportunity for scientists and engineers to contribute
+valuable, exciting breakthrough results in this underexplored area and to make a significant contribution
+preventing groundwater pollution by enteric viruses.
+Disclaimer: This article has been subjected to the
+U.S.EPA’s peer and administrative review and has been
+approved for publication. The mention of trade names or
+commercial products in this report does not constitute
+endorsement or recommendation for use by the U.S.
+Government.
+
